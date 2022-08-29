@@ -5,6 +5,7 @@
 Submitted by: **Anastasija Bulatovic**
 
 Time spent: **6** hours spent in total
+    The prework assignment took me a while as I have never used XCode before. Before even beginning the project I had to spend a couple hours updating my computer's operating system, and then the XCode program itself. The whole process is quite time consuming, and the placment of different features with XCode can be confusing for first time users. I expect that I will get more comfortable as time goes on, but this first time was complicated. 
 
 ## User Stories
 
@@ -42,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2022] [Anastasija]
+    Copyright [2022] [Anastasija Bulatovic]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
