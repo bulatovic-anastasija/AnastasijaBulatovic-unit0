@@ -28,10 +28,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![preworkgif](https://user-images.githubusercontent.com/66039575/187106024-57a4002a-16ca-4114-9763-c3c2b63198b6.gif)
+
 
 <img src='/Users/anastasijabulatovic/Desktop/preworkgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [EZGif](https://ezgif.com).
 
 ## Notes
 
